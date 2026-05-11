@@ -1,4 +1,4 @@
-# Hey, I'm A, a product leader at the intersection of healthcare and technology.
+# Hello - I'm A, a product leader at the intersection of healthcare and technology.
 
 I've spent 14+ years leading large-scale EHR platforms, owning roadmaps across acute, post-acute, ambulatory, and perioperative care delivery, revenue cycle, medical devices, analytics, data pipelines, and strategic partnerships. Within that, I've developed deep specialties in the areas that are increasingly defining where healthcare technology is headed: APIs, integrations, interoperability, and the regulatory frameworks that govern how health data moves.
 
