@@ -50,4 +50,4 @@ A few things that shape how I approach product work:
 
 I'm based in Kansas City, MO.
 
-Connect with me on [LinkedIn](https://linkedin.com) or reach out directly if you're building something interesting in healthcare technology.
+Connect with me on [(https://www.linkedin.com/in/adam-white-40302865/)) or reach out directly if you're building something interesting in healthcare technology.
